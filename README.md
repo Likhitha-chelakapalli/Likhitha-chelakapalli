@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **likhithachelakapalli@gmail.com**
 
-- 📄 [Check out my resume](https://github.com/Likhitha-chelakapalli/Likhitha_chelakapalli_Resume.pdf)
+- 📄 [Check out my resume]([https://github.com/Likhitha-chelakapalli/Likhitha_chelakapalli_Resume.pdf](https://drive.google.com/file/d/1wj3c-AFaN5iMhvdu8sJneUOU2KnZI8zc/view?usp=sharing))
 
 ---
 
