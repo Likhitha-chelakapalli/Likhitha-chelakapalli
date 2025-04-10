@@ -52,15 +52,6 @@
 - Features voice notifications, AI chatbot, and email alerts.
 - Built with Python, Streamlit, DeepFace, and OpenCV.
 
-### 📌 [Sentiment Analysis on Product Reviews](https://github.com/Ajaybhukya/Sentiment-Analysis-on-Product-Reviews-using-Data-Analytics.git)
-- Used NLP techniques to analyze 2000+ reviews.
-- Classified sentiments (Positive, Negative, Neutral).
-- Deployed via an interactive Streamlit dashboard.
-
-### 📌 [Student Record Viewer (Python & MySQL)](https://github.com/Ajaybhukya/Student-Record-Viewer-Using-Python-GUI-And-MYSQL.git)
-- GUI-based student database application.
-- CRUD operations with MySQL and Python.
-
 ### 📌 House Price Prediction using Linear Regression
 - Interactive price prediction using Streamlit.
 - Model predicts based on square footage, bedroom count, and house age.
