@@ -55,7 +55,7 @@
 - Features voice notifications, AI chatbot, and email alerts.
 - Built with Python, Streamlit, DeepFace, and OpenCV.
 
-### 📌 House Price Prediction using Linear Regression(https://github.com/Likhitha-chelakapalli/House-price-prediction-using-ML.git)
+### 📌 [House Price Prediction using Linear Regression](https://github.com/Likhitha-chelakapalli/House-price-prediction-using-ML.git)
 - Interactive price prediction using Streamlit.
 - Model predicts based on square footage, bedroom count, and house age.
 
