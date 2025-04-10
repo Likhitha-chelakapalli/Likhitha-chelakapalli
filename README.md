@@ -29,6 +29,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+---
 **Languages**: Python, SQL, C, Java  
 **Web**: HTML5, CSS3, JavaScript  
 **Frameworks**: Streamlit  
@@ -36,6 +37,7 @@
 **Tools**: Git, GitHub, Jupyter Notebook, MySQL Server, MS Office, Google Workspace, Power BI  
 **Core Concepts**: OOP, DSA, Data Cleaning, EDA, ML Algorithms, NLP, Database Management  
 **Soft Skills**: Problem Solving, Critical Thinking, Communication, Teamwork, Adaptability
+---
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
