@@ -50,7 +50,7 @@
 
 ## 🚀 Projects
 
-### 📌 [Smart Attendance System with Deep Learning](https://github.com/Likhitha-chelakapalli)
+### 📌 [Smart Attendance System with Deep Learning](https://github.com/Likhitha-chelakapalli/Anti-spoof-Face-attenadance-system.git)
 - Real-time face recognition-based attendance system.
 - Features voice notifications, AI chatbot, and email alerts.
 - Built with Python, Streamlit, DeepFace, and OpenCV.
