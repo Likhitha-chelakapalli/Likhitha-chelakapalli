@@ -59,7 +59,7 @@
 - Interactive price prediction using Streamlit.
 - Model predicts based on square footage, bedroom count, and house age.
 
-### 📌 Sales & Customer Analysis Dashboard
+### 📌 [Sales & Customer Analysis Dashboard](https://github.com/Likhitha-chelakapalli/A-Comprehensive-Data-Analysis-of-Sales-and-Customer-Trends.git)
 - Data cleaning with Python & Excel.
 - Visualized key business metrics using Power BI.
 
