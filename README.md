@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Likhitha Chelakapalli</h1>
-<h3 align="center">Data Science Enthusiast | Python & SQL Developer | Open Source Contributor</h3>
+<h3 align="center">
+  Data Science Enthusiast | Python & SQL Developer | AI & Machine Learning Explorer | Streamlit & OpenCV Developer | Problem Solver | Open Source Contributor
+</h3>
+
 
 - 🔭 I’m currently working on **Smart Attendance System using Deep Learning**
 
